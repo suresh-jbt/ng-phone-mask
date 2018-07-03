@@ -1,11 +1,11 @@
 {
   "name": "ng-phone-mask",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Angular Phone Mask",
   "main": "index.js",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve"
   },
   "repository": {
     "type": "git",
